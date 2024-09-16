@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Run
 
-stramlit run app.py
+streamlit run app.py
 
 ## Gen AI under the hood
 
